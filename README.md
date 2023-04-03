@@ -3,4 +3,4 @@
 
 
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+꾸준한 커밋을위한 레포
